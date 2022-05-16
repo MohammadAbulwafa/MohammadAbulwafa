@@ -7,7 +7,7 @@
 
 I'm a Egyptian software engineer, full stack developer, spanish learner. muchas gusto 💝
 
-- 💪 Currently working as a freelance software engineer.
+- 💪 Currently working as a software engineer in software house.
 - 👀 Looking forward to working on interesting projects.
 - 🔏 Bug bounty hunter in free time.
 - 🌱 In an endless loop of learning.
